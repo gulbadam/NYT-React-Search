@@ -123,7 +123,7 @@ export default class Articles extends Component {
                 <Row>
                     <Col size="sm-10" offset='sm-1'>
                         <Jumbotron>
-                            <H1 className='page-header text-center'>New York Times Article Searcher</H1>
+                            <H1 className='page-header text-center'><i className="far fa-newspaper"/> New York Times Search</H1>
                             <H4 className='text-center'>Search for and save articles of interest</H4>
                         </Jumbotron>
                         <Panel>

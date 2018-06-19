@@ -3,3 +3,36 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.col-sm-10 {
+  margin: 0 auto;
+}
+
+.jumbotron {
+  height: 0;
+  margin-top: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar-nav {
+  flex-direction: row;
+ 
+}
+
+.btn-warning {
+  margin-bottom: 200px;
+}
+
+.container {
+  padding: 0;
+}
+.list-group {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.navbutton {
+  margin: 1rem;
+}
+h4 {
+  padding-bottom: 1rem;
+}
